@@ -1,0 +1,20 @@
+font.family : serif
+font.serif : DejaVu Serif
+figure.dpi : 300
+savefig.dpi : figure
+savefig.bbox : tight
+font.size : xx-large
+##font.weight : bold
+##axes.titlesize : xx-large
+axes.titlesize : 22
+axes.labelsize : 22
+##lines.linewidth : 3
+##lines.markersize : 10
+
+## TICKS
+xtick.labelsize : 22
+ytick.labelsize : 22
+
+## LEGEND
+legend.fontsize : 15
+legend.title_fontsize : 18
