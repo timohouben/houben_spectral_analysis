@@ -2,7 +2,7 @@
 Supporting scripts for paper submission to WRR, Houben et al. 202x
 
 
-## This directory contains the following folders (tree -L 1)
+## This repository contains the following folders and files
 The folder `spa_studies` contains the spectral analysis studies described in the paper. The folder `model_setup` contains scripts to set up the numerical OpenGeoSys models. The remaining folders contain required python modules for the analysis.
 
 ```
