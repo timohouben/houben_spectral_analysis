@@ -1,5 +1,7 @@
 # houben_spectral_analysis
-Supporting scripts for paper submission to WRR, Houben et al. 202x
+Supporting scripts for paper submission to WRR, Houben et al. (2022)
+
+*Houben, T. (2022). From dynamic groundwater head measurements to regional aquifer parameters – Assessing the power of spectral analysis. Water Resources Research.*
 
 
 ## This repository contains the following folders and files
